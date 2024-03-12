@@ -1,0 +1,19 @@
+body {
+  background-color: Gray;
+}
+h1 {
+  color: GhostWhite;
+  text-align: center;
+  font-family: Arial;
+}
+p {
+  color: GhostWhite;
+  font-family: Times, Times New Roman, serif;
+  font-size: 15px
+}
+h2 { 
+  color: GhostWhite;
+  text-align: center;
+  font-family: Arial;
+}
+
